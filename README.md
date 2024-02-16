@@ -8,7 +8,7 @@
               <img
                 width="144px"
                 height="144px"
-                src="./duplo.png"
+                src="./duplo-logo.png"
                 alt="DuploCloud Logo"
               />
             </a>
